@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+
+}
+.first{
+    width: 100%;
+}
+
+#circles {
+    width: 10%;
+    background-color: #8c8882;
+
+}
