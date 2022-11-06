@@ -195,7 +195,9 @@ h4 {
     width: 80px;
     padding-top: 10px;
 }
-
+.logo{
+    width: 80px;
+}
 #logo_link{
     padding-top: 5px;
     justify-self: center;
@@ -226,6 +228,9 @@ footer a {
 }
 footer a:hover {
     color:rgba(0, 0, 0)
+}
+.page2d{
+    width: 100%;
 }
 
 @media screen and (max-width: 900px) {
