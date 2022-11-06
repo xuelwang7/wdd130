@@ -67,6 +67,15 @@ body {
       color: var(--paragraph-color-on-color);
       padding: 1em;
     }
+    .building{
+      width: 100%;
+    }
+    .deer{
+      width: 100%;
+    }
+    .sea{
+      width: 100%;
+    }
     .colors {
       width: 100%;
       min-width: 350px;
