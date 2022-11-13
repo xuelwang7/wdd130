@@ -76,6 +76,21 @@ body {
     .sea{
       width: 100%;
     }
+
+    .page_a {
+      width: 100%;
+
+    }
+    .page_b {
+      width: 100%;
+
+    }
+
+    .page_c {
+      width: 100%;
+
+    }
+
     .colors {
       width: 100%;
       min-width: 350px;
