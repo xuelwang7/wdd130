@@ -8,7 +8,7 @@ Fonts are separated by a | */
   --primary-color: #A1C181 ;
   --secondary-color: rgb(193, 185, 105); ;
   --accent1-color: #144314;
-  --accent2-color: #FE7F2D;
+  --accent2-color: #000000;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Dancing Script";font-size: 60px;
