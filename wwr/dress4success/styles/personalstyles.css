@@ -397,6 +397,12 @@ footer a:hover {
     background-repeat: no-repeat;
     background-size: cover;
   }
+.para{
+    height:100px;
+    background-color:rgb(171, 171, 171);
+    font-size:36px
+    
+}
 
 
 @media screen and (max-width: 900px) {
