@@ -396,11 +396,15 @@ footer a:hover {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height:50vh;
+    padding-top:100vh;
   }
 .para{
-    height:100px;
-    background-color:rgb(171, 171, 171);
-    font-size:36px
+    height:10vh;
+    background:rgba(255,255,255,0.5);
+    font-size:60px;
+    margin: 10vh 30vh;
+    line-height: 10vh;
     
 }
 
